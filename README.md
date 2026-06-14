@@ -1,4 +1,4 @@
-#Hi,I'm Mohammed Fazil👋
+Hi,I'm Mohammed Fazil👋
 🎓Computer Science Engineering Student
 💻Currently Learning
 - Python
