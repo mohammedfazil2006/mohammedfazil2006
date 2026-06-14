@@ -1,16 +1,21 @@
-## Hi there 👋
-
-<!--
-**mohammedfazil2006/mohammedfazil2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Hi,I'm Mohammed Fazil👋
+🎓Computer Science Engineering Student
+💻Currently Learning
+- Python
+- SQL
+- Data Analytics
+- Data Science
+🚀Career Goal
+- Data Analyst
+- Data Scientist
+🛠Skills
+- Python
+- Git
+- GitHub
+- Problem Solving
+🌱Working On
+- Building Python Projects
+- Learning SQL
+- Preparing for Data Analytics
+📫 Connect with me on LinkedIn
+https://www.linkedin.com/in/mohammed-fazil-m-387173330/
