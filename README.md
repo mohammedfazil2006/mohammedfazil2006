@@ -24,4 +24,4 @@ Hi,I'm Mohammed Fazil👋
 - Preparing for Data Analytics
   
 📫 Connect with me on LinkedIn
-https://www.linkedin.com/in/mohammed-fazil-m-387173330/
+https://www.linkedin.com/in/mohammedfazilm/
